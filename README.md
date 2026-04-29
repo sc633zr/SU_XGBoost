@@ -133,7 +133,3 @@ The application runs locally on a laptop without API deployment.
 - ggplot2
 - DT
 
-
-
-```bash
-jupyter notebook
